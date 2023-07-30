@@ -9,7 +9,7 @@ Oii! Minhas redes sociais estão logo abaixo 🤙
 
 ![rebeccalss GitHub stats](https://github-readme-stats.vercel.app/api?username=rebeccalss&show_icons=true&theme=gruvbox)
 
-## Sistema Operacional que eu estou usando atualmente é:
+## Sistema Operacional que eu estou usando:
 <div style="display: incline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 </div>
