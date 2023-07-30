@@ -6,4 +6,4 @@ Oii! Minhas redes sociais estão logo abaixo 🤙
 [![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rebeccalss?_t=8ePktlgi3Xy&_r=1)
 
 
-![rebeccalss GitHub stats](https://github-readme-stats.vercel.app/api?username=rebeccalss&show_icons=true&theme=radical)
+![rebeccalss GitHub stats](https://github-readme-stats.vercel.app/api?username=rebeccalss&show_icons=true&theme=dark)
