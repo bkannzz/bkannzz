@@ -2,7 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-lobato-042264262)
 
-![rebeccalss GitHub stats](https://github-readme-stats.vercel.app/api?username=bkannzz&show_icons=true&theme=gruvbox)
 
 ## Tecnologias que eu uso:
 <div style="display: incline_block">
