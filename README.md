@@ -2,7 +2,6 @@
 
 - Meu linkedIn
 <br>
-
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-lobato-042264262)
 
 
@@ -18,6 +17,6 @@
 <br>
  <div>
    <a href="https://github.com/bkannzz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivison556&show_icons=true&theme=transparent"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivison556&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bkannzz&show_icons=true&theme=transparent"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkannzz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
