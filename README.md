@@ -10,3 +10,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="htm15" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/bkannzz/github-readme-stats)
