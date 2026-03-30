@@ -11,4 +11,5 @@
   <img align="center" alt="htm15" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/bkannzz/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bkannzz&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkannzz&layout=compact&langs_count=6&theme=tokyonight"/>
