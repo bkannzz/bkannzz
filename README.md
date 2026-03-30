@@ -17,6 +17,8 @@
 <br>
  <div>
    <a href="https://github.com/bkannzz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bkannzz&show_icons=true&theme=transparent"/>
+   <img height="180em" src="https:/c/api?username=bkannzz&show_icons=true&theme=transparent"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkannzz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkannzz&theme=dark&show_icons=true)
