@@ -3,13 +3,13 @@
 ## Estudante de Tecnologia 
 
 <p>
-  Gosto muito das diversas áreas da tecnologia, porém agora estou focada em Web Designer Front-End. Estudo tecnologia desde 2022, com grande interesse em aprofundar meus conhecimentos e evoluir continuamente na área.
+  Gosto das diversas áreas da tecnologia, atualmente me dedico em Web Designer Front-End. Estudo tecnologia desde 2022, com grande interesse em aprofundar meus conhecimentos e evoluir continuamente na área.
 </p>
 
 ### 🦉 Sobre mim:
-- 📚 Atualmente estudo no Senai, onde adquiri muitos conhecimentos voltados à tecnologia;
-- 💓 Gosto muito de desenvolver interfaces modernas que focam em UX/UI;
-- 🙇‍♀️ Sempre busco aprender tecnologias novas.
+- 📚 Sempre estou a procura por diferentes cursos e livros para aprimorar os meus conhecimentos;
+- 💓 Gosto muito de desenvolver interfaces modernas que focam em UX/UI e Front End;
+- 🙇‍♀️ Busco aprender as tecnologias da atualidade.
 
 ### 🛠 Tecnologias e ferramentas:
 <div style="display: incline_block">
