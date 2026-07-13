@@ -3,7 +3,7 @@
 ## Estudante de Tecnologia 
 
 <p>
-  Gosto das diversas áreas da tecnologia, atualmente me dedico em Web Designer Front-End. Estudo tecnologia desde 2022, com grande interesse em aprofundar meus conhecimentos e evoluir continuamente na área.
+  Gosto das diversas áreas da tecnologia, atuo como Desenvolvedora Front-End. Estudo tecnologia desde 2022, com grande interesse em aprofundar meus conhecimentos e evoluir continuamente na área.
 </p>
 
 ### 🦉 Sobre mim:
