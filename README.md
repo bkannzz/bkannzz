@@ -1,6 +1,6 @@
 # Oii! Eu sou a Rebecca! 👋
 
-## Estudante de ADS
+## Graduanda em Análise e Desenvolvimento de Sistemas (UNIP)
 
 <p>
   Gosto das diversas áreas da tecnologia, atuo como Desenvolvedora Front-End. Estudo tecnologia desde 2022, com grande interesse em aprofundar meus conhecimentos e evoluir continuamente na área.
