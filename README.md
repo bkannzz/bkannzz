@@ -19,7 +19,7 @@
   <img align="center" alt="htm15" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=Git&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/Github-F24E1E?style=for-the-badge&logo=Github&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/Github-800080?style=for-the-badge&logo=Github&logoColor=white" />
 </div>
 
 
